@@ -1,4 +1,4 @@
-# assignment
+# assignment 1 
 Numpy Mini-Project
 
 Features of the data set:
